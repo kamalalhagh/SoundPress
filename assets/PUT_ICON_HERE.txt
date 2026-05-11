@@ -1,0 +1,1 @@
+Place your icon.ico file here (optional). If missing, the app will use the default Python icon.
